@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "address": {
+    "@type": "PostalAddress"
+    "postalCode": "40100",
+    "streetAddress": "Mari lak, Sargodha"
+  },
+  "colleague": [
+    "http://www.su.edu.pk/"
+  ],
+  "email": "mailto:kishwarfatima47@gmail.com",
+  "image": "kishwar.jpg",
+    "jobTitle": "Web Developer",
+  "name": "Kishwar Fatima",
+  "telephone": “+92 345 0711498",
+  "url": "https://github.com/Kishwarfatima/Kishwar.git"
+}
+</script>
